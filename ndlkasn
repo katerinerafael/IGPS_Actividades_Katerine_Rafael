@@ -1,0 +1,13 @@
+[1mdiff --git a/Clase_git/PracticasDelSegundoDia/notas.txt b/Clase_git/PracticasDelSegundoDia/notas.txt[m
+[1mindex 2755de0..c6b3372 100644[m
+[1m--- a/Clase_git/PracticasDelSegundoDia/notas.txt[m
+[1m+++ b/Clase_git/PracticasDelSegundoDia/notas.txt[m
+[36m@@ -1,3 +1,5 @@[m
+ Estuvimos aprendiendo como utilizar el git status [m
+ primero se realiza el git clone [m
+[31m-Se entra en [m
+\ No newline at end of file[m
+[32m+[m[32mSe entra en[m[41m [m
+[32m+[m
+[32m+[m[32mhola[m[41m [m
+\ No newline at end of file[m
