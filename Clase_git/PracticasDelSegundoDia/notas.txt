@@ -1,0 +1,3 @@
+Estuvimos aprendiendo como utilizar el git status 
+primero se realiza el git clone 
+Se entra en 
